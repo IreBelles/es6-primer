@@ -1,0 +1,26 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "JavaScript and Version Control Primer in NodeJS Environment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IreBelles/es6-primer.git"
+  },
+  "author": "Ire Belles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IreBelles/es6-primer/issues"
+  },
+  "homepage": "https://github.com/IreBelles/es6-primer#readme",
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "Book-examples"
+  ],
+  "type":"module"
+}
